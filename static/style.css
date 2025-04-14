@@ -1,0 +1,45 @@
+   
+
+
+   /* add transaction */
+
+    body {
+            background-color: #f2f4f8;
+        }
+        .card {
+            max-width: 500px;
+            margin: 50px auto;
+            border-radius: 16px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        }
+        .card-header {
+            background-color: #28a745;
+            color: white;
+            font-weight: 600;
+            border-top-left-radius: 16px;
+            border-top-right-radius: 16px;
+        }
+        .btn-success {
+            width: 100%;
+            padding: 10px;
+        }
+
+
+        /* edit transaction */
+
+        body {
+            background-color: #f2f4f8;
+        }
+        .card {
+            max-width: 500px;
+            margin: 50px auto;
+            border-radius: 16px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        }
+        .card-header {
+            background-color: #ffc107;
+            color: #000;
+            font-weight: 600;
+            border-top-left-radius: 16px;
+            border-top-right-radius: 16px;
+        }
